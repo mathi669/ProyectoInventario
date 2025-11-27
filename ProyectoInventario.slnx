@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Inventario.backendV2/Inventario.backendV2.csproj" Id="0cf20000-6a01-404c-91af-572b9baed1bb" />
+  <Project Path="Inventario.frontendV2/Inventario.frontendV2.csproj" Id="1c9f7a87-e9f3-4cbc-8b4f-b042771d500b" />
+</Solution>
